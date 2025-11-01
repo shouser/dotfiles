@@ -88,10 +88,10 @@ autostash = true
 
 [sendemail]
 confirm = auto
-from = Brendon Smith <gitsmith@protonmail.com>
+from = Steve Houser <shouser@gmail.com>
 smtpserver = 127.0.0.1
 smtpserverport = 1025
-smtpuser = gitsmith@protonmail.com
+smtpuser = shouser@gmail.com
 suppresscc = author
 
 [tag]
@@ -99,6 +99,6 @@ gpgsign = true
 sort = -taggerdate:iso
 
 [user]
-name = Brendon Smith
-email = bws@bws.bio
-signingkey = ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMCwzZoq3tQx2P4PRgtaxhq/pqxJCdxQvel7MqBSs5ui
+name = Steve Houser
+email = shouser@gmail.com
+signingkey = ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEIIDseM/paG7SMqxhw1BqIPb8SF8MVusK70ofJREWr5
